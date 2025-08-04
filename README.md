@@ -1,4 +1,4 @@
-# First Screening Test - Rahul R
+# First Screening Test - Raghul R
 This repository contains my submission for the UI/UX Design Screening Test at Tandemloop Technologies.
 
 # Objective:
@@ -57,4 +57,4 @@ The UI is divided into the following main sections:
 Thank you for the opportunity to participate in this design screening. I thoroughly enjoyed the challenge and the creative process involved. I look forward to your feedback and the next steps in the hiring process.
 
 Warm regards,
-Rahul R
+Raghul R.
